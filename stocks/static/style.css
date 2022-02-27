@@ -1,0 +1,25 @@
+body {
+    background-color: aqua;
+}
+
+.stocks {
+    padding: 2vw;
+    margin: 0 auto;
+    display: flex;
+    width: 70vw;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.card {
+    margin: 2vw;
+}
+
+.links {
+    text-decoration: none;
+    color: black;
+}
+
+table {
+    margin: 2vw;
+}
